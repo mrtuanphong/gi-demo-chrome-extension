@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "GotItHtmlTemplates",
+  "description": "Browse Got It's HTML templates easier!",
+  "version": "1",
+  "author": "Phong Do",
+  "browser_action": {
+    "default_icon": "tab-icon.png",
+    "default_popup": "popup.html",
+    "default_title": "Got It - Html templates"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
